@@ -1,3 +1,4 @@
+dotenv==0.9.9
 google==3.0.0
 google-genai==2.33.0
 pip==24.3.1
